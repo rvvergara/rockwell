@@ -43,7 +43,6 @@ gem 'font-awesome-rails'
 gem 'jquery-rails'
 gem 'mini_magick', '4.9.2'
 gem 'omniauth', '~> 1.9'
-gem 'simple_form'
 
 group :development, :test do
   gem 'byebug', platforms: [:mri, :mingw, :x64_mingw]
