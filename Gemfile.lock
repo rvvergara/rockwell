@@ -178,8 +178,8 @@ GEM
     pry-rails (0.3.9)
       pry (>= 0.10.4)
     public_suffix (3.0.3)
-    puma (3.12.0)
-    rack (2.0.7)
+    puma (3.12.4)
+    rack (2.0.6)
     rack-test (1.1.0)
       rack (>= 1.0, < 3)
     rack_session_access (0.2.0)
@@ -325,7 +325,7 @@ DEPENDENCIES
   omniauth (~> 1.9)
   pg (>= 0.18, < 2.0)
   pry-rails (~> 0.3.9)
-  puma (~> 3.11)
+  puma (~> 3.12)
   rack_session_access
   rails (~> 5.2.2)
   rails-controller-testing
